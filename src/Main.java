@@ -5,5 +5,6 @@ public class Main {
         System.out.println("This is OOP class");
         System.out.println("Edit by Chamrouen");
         System.out.println("This is Neang");
+        System.out.println("Edit by Sokha");
     }
 }
